@@ -4,7 +4,7 @@ from tkinter import messagebox
 root = Tk()
 root.title("Simple Calculator")
 root.geometry("350x300")
-
+root.resizeable(0,0)
 root.configure(bg="#77526b")
 equa = ""
 equation = StringVar()
