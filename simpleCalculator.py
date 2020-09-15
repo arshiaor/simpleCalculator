@@ -2,6 +2,10 @@ from tkinter import *
 from tkinter import messagebox
 
 print("hello world");
+print("hello world");
+print("hello world");
+print("hello world");
+
 
 root = Tk()
 root.title("Simple Calculator")
